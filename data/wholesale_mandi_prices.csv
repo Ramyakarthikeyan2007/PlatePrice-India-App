@@ -1,0 +1,10 @@
+state,center,mandi_name,commodity,wholesale_price_quintal,wholesale_price_kg,retail_equivalent_kg,price_date,source,data_tier
+Delhi,Delhi,Azadpur APMC Mandi,Potato,2200.0,22.0,32.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices
+Delhi,Delhi,Azadpur APMC Mandi,Onion,4200.0,42.0,54.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices
+Delhi,Delhi,Azadpur APMC Mandi,Tomato,3600.0,36.0,48.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices
+Maharashtra,Mumbai,Vashi APMC Mandi,Potato,2400.0,24.0,34.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices
+Maharashtra,Mumbai,Vashi APMC Mandi,Onion,3700.0,37.0,49.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices
+Maharashtra,Mumbai,Vashi APMC Mandi,Tomato,3800.0,38.0,49.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices
+Karnataka,Bengaluru,Yeshwanthpur APMC Mandi,Potato,2600.0,26.0,36.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices
+Karnataka,Bengaluru,Yeshwanthpur APMC Mandi,Onion,4500.0,45.0,57.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices
+Karnataka,Bengaluru,Yeshwanthpur APMC Mandi,Tomato,3200.0,32.0,45.0,2026-10-01,Demonstration Sample (AGMARKNET Benchmark) — Not Verified Official Prices,Demonstration Wholesale Data — Not Verified Official Prices

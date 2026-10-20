@@ -1,0 +1,7 @@
+state,center,commodity,retail_price,unit,price_date,zone,market_type,source,data_tier
+Delhi,Delhi,Rice,42.0,₹/kg,2026-10-01,North,DCA Reporting Center,User Uploaded DCA Report,User Uploaded Data
+Delhi,Delhi,Wheat (Atta),34.0,₹/kg,2026-10-01,North,DCA Reporting Center,User Uploaded DCA Report,User Uploaded Data
+Maharashtra,Mumbai,Tur / Arhar Dal,159.0,₹/kg,2026-10-01,West,DCA Reporting Center,User Uploaded DCA Report,User Uploaded Data
+Karnataka,Bengaluru,Mustard Oil,153.0,₹/litre,2026-10-01,South,DCA Reporting Center,User Uploaded DCA Report,User Uploaded Data
+West Bengal,Kolkata,Potato,29.0,₹/kg,2026-10-01,East,DCA Reporting Center,User Uploaded DCA Report,User Uploaded Data
+Tamil Nadu,Chennai,Onion,57.0,₹/kg,2026-10-01,South,DCA Reporting Center,User Uploaded DCA Report,User Uploaded Data

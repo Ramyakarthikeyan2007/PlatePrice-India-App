@@ -1,0 +1,746 @@
+state,center,commodity,retail_price,unit,price_date,zone,market_type,source,data_tier
+Delhi,Delhi,Rice,42.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Rice,40.5,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Rice,38.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Wheat (Atta),34.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Wheat (Atta),32.5,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Wheat (Atta),31.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tur / Arhar Dal,164.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tur / Arhar Dal,157.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tur / Arhar Dal,144.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Gram Dal (Chana),83.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Gram Dal (Chana),79.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Gram Dal (Chana),73.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Moong Dal,112.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Moong Dal,108.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Moong Dal,102.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Urad Dal,125.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Urad Dal,119.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Urad Dal,111.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Mustard Oil,140.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Mustard Oil,133.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Mustard Oil,127.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Sunflower Oil,137.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Sunflower Oil,131.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Sunflower Oil,125.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Soya Oil,126.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Soya Oil,120.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Soya Oil,115.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Potato,28.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Potato,22.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Potato,18.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Onion,56.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Onion,40.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Onion,34.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tomato,46.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tomato,33.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tomato,28.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Sugar,44.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Sugar,43.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Sugar,42.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Milk (Packaged),62.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Milk (Packaged),60.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Milk (Packaged),58.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tea (Packaged),315.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tea (Packaged),305.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Tea (Packaged),295.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Salt (Iodised),22.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Salt (Iodised),21.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Salt (Iodised),20.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Egg,82.0,₹/dozen,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Egg,76.0,₹/dozen,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Egg,70.0,₹/dozen,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Chicken (Broiler),225.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Chicken (Broiler),215.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Chicken (Broiler),200.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Spinach (Palak),32.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Spinach (Palak),27.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Spinach (Palak),25.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Curd (Plain),75.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Curd (Plain),72.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Curd (Plain),68.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Chickpeas (Chole),94.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Chickpeas (Chole),90.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi,Chickpeas (Chole),84.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Rice,42.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Rice,40.5,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Rice,38.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Wheat (Atta),34.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Wheat (Atta),32.5,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Wheat (Atta),31.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tur / Arhar Dal,164.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tur / Arhar Dal,157.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tur / Arhar Dal,144.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Gram Dal (Chana),83.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Gram Dal (Chana),79.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Gram Dal (Chana),73.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Moong Dal,112.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Moong Dal,108.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Moong Dal,102.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Urad Dal,125.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Urad Dal,119.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Urad Dal,111.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Mustard Oil,140.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Mustard Oil,133.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Mustard Oil,127.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Sunflower Oil,137.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Sunflower Oil,131.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Sunflower Oil,125.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Soya Oil,126.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Soya Oil,120.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Soya Oil,115.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Potato,28.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Potato,22.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Potato,18.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Onion,56.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Onion,40.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Onion,34.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tomato,46.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tomato,33.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tomato,28.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Sugar,44.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Sugar,43.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Sugar,42.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Milk (Packaged),62.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Milk (Packaged),60.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Milk (Packaged),58.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tea (Packaged),315.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tea (Packaged),305.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Tea (Packaged),295.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Salt (Iodised),22.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Salt (Iodised),21.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Salt (Iodised),20.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Egg,82.0,₹/dozen,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Egg,76.0,₹/dozen,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Egg,70.0,₹/dozen,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Chicken (Broiler),225.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Chicken (Broiler),215.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Chicken (Broiler),200.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Spinach (Palak),32.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Spinach (Palak),27.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Spinach (Palak),25.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Curd (Plain),75.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Curd (Plain),72.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Curd (Plain),68.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Chickpeas (Chole),94.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Chickpeas (Chole),90.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Uttar Pradesh,Lucknow,Chickpeas (Chole),84.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Rice,42.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Rice,40.5,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Rice,38.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Wheat (Atta),34.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Wheat (Atta),32.5,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Wheat (Atta),31.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tur / Arhar Dal,164.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tur / Arhar Dal,157.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tur / Arhar Dal,144.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Gram Dal (Chana),83.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Gram Dal (Chana),79.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Gram Dal (Chana),73.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Moong Dal,112.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Moong Dal,108.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Moong Dal,102.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Urad Dal,125.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Urad Dal,119.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Urad Dal,111.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Mustard Oil,140.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Mustard Oil,133.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Mustard Oil,127.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Sunflower Oil,137.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Sunflower Oil,131.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Sunflower Oil,125.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Soya Oil,126.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Soya Oil,120.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Soya Oil,115.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Potato,28.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Potato,22.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Potato,18.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Onion,56.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Onion,40.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Onion,34.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tomato,46.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tomato,33.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tomato,28.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Sugar,44.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Sugar,43.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Sugar,42.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Milk (Packaged),62.0,₹/litre,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Milk (Packaged),60.0,₹/litre,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Milk (Packaged),58.0,₹/litre,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tea (Packaged),315.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tea (Packaged),305.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Tea (Packaged),295.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Salt (Iodised),22.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Salt (Iodised),21.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Salt (Iodised),20.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Egg,82.0,₹/dozen,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Egg,76.0,₹/dozen,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Egg,70.0,₹/dozen,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Chicken (Broiler),225.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Chicken (Broiler),215.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Chicken (Broiler),200.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Spinach (Palak),32.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Spinach (Palak),27.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Spinach (Palak),25.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Curd (Plain),75.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Curd (Plain),72.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Curd (Plain),68.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Chickpeas (Chole),94.0,₹/kg,2026-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Chickpeas (Chole),90.0,₹/kg,2026-04-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Rajasthan,Jaipur,Chickpeas (Chole),84.0,₹/kg,2025-10-01,North,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Rice,44.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Rice,42.5,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Rice,40.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Wheat (Atta),37.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Wheat (Atta),35.5,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Wheat (Atta),34.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tur / Arhar Dal,159.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tur / Arhar Dal,152.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tur / Arhar Dal,139.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Gram Dal (Chana),84.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Gram Dal (Chana),80.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Gram Dal (Chana),74.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Moong Dal,110.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Moong Dal,106.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Moong Dal,100.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Urad Dal,123.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Urad Dal,117.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Urad Dal,109.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Mustard Oil,147.0,₹/litre,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Mustard Oil,140.0,₹/litre,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Mustard Oil,134.0,₹/litre,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Sunflower Oil,135.0,₹/litre,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Sunflower Oil,129.0,₹/litre,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Sunflower Oil,123.0,₹/litre,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Soya Oil,123.0,₹/litre,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Soya Oil,117.0,₹/litre,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Soya Oil,112.0,₹/litre,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Potato,34.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Potato,28.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Potato,24.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Onion,49.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Onion,33.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Onion,27.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tomato,49.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tomato,36.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tomato,31.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Sugar,43.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Sugar,42.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Sugar,41.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Milk (Packaged),64.0,₹/litre,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Milk (Packaged),62.0,₹/litre,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Milk (Packaged),60.0,₹/litre,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tea (Packaged),310.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tea (Packaged),300.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Tea (Packaged),290.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Salt (Iodised),21.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Salt (Iodised),20.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Salt (Iodised),19.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Egg,80.0,₹/dozen,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Egg,74.0,₹/dozen,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Egg,68.0,₹/dozen,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Chicken (Broiler),215.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Chicken (Broiler),205.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Chicken (Broiler),190.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Spinach (Palak),37.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Spinach (Palak),32.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Spinach (Palak),30.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Curd (Plain),77.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Curd (Plain),74.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Curd (Plain),70.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Chickpeas (Chole),97.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Chickpeas (Chole),93.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai,Chickpeas (Chole),87.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Rice,44.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Rice,42.5,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Rice,40.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Wheat (Atta),37.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Wheat (Atta),35.5,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Wheat (Atta),34.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tur / Arhar Dal,159.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tur / Arhar Dal,152.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tur / Arhar Dal,139.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Gram Dal (Chana),84.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Gram Dal (Chana),80.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Gram Dal (Chana),74.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Moong Dal,110.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Moong Dal,106.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Moong Dal,100.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Urad Dal,123.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Urad Dal,117.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Urad Dal,109.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Mustard Oil,147.0,₹/litre,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Mustard Oil,140.0,₹/litre,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Mustard Oil,134.0,₹/litre,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Sunflower Oil,135.0,₹/litre,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Sunflower Oil,129.0,₹/litre,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Sunflower Oil,123.0,₹/litre,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Soya Oil,123.0,₹/litre,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Soya Oil,117.0,₹/litre,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Soya Oil,112.0,₹/litre,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Potato,34.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Potato,28.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Potato,24.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Onion,49.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Onion,33.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Onion,27.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tomato,49.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tomato,36.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tomato,31.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Sugar,43.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Sugar,42.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Sugar,41.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Milk (Packaged),64.0,₹/litre,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Milk (Packaged),62.0,₹/litre,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Milk (Packaged),60.0,₹/litre,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tea (Packaged),310.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tea (Packaged),300.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Tea (Packaged),290.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Salt (Iodised),21.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Salt (Iodised),20.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Salt (Iodised),19.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Egg,80.0,₹/dozen,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Egg,74.0,₹/dozen,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Egg,68.0,₹/dozen,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Chicken (Broiler),215.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Chicken (Broiler),205.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Chicken (Broiler),190.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Spinach (Palak),37.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Spinach (Palak),32.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Spinach (Palak),30.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Curd (Plain),77.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Curd (Plain),74.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Curd (Plain),70.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Chickpeas (Chole),97.0,₹/kg,2026-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Chickpeas (Chole),93.0,₹/kg,2026-04-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Gujarat,Ahmedabad,Chickpeas (Chole),87.0,₹/kg,2025-10-01,West,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Rice,40.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Rice,38.5,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Rice,36.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Wheat (Atta),39.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Wheat (Atta),37.5,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Wheat (Atta),36.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tur / Arhar Dal,161.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tur / Arhar Dal,154.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tur / Arhar Dal,141.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Gram Dal (Chana),86.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Gram Dal (Chana),82.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Gram Dal (Chana),76.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Moong Dal,113.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Moong Dal,109.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Moong Dal,103.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Urad Dal,124.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Urad Dal,118.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Urad Dal,110.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Mustard Oil,153.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Mustard Oil,146.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Mustard Oil,140.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Sunflower Oil,130.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Sunflower Oil,124.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Sunflower Oil,118.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Soya Oil,128.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Soya Oil,122.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Soya Oil,117.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Potato,36.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Potato,30.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Potato,26.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Onion,57.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Onion,41.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Onion,35.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tomato,45.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tomato,32.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tomato,27.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Sugar,45.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Sugar,44.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Sugar,43.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Milk (Packaged),60.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Milk (Packaged),58.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Milk (Packaged),56.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tea (Packaged),305.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tea (Packaged),295.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Tea (Packaged),285.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Salt (Iodised),22.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Salt (Iodised),21.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Salt (Iodised),20.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Egg,77.0,₹/dozen,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Egg,71.0,₹/dozen,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Egg,65.0,₹/dozen,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Chicken (Broiler),210.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Chicken (Broiler),200.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Chicken (Broiler),185.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Spinach (Palak),38.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Spinach (Palak),33.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Spinach (Palak),31.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Curd (Plain),73.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Curd (Plain),70.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Curd (Plain),66.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Chickpeas (Chole),99.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Chickpeas (Chole),95.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru,Chickpeas (Chole),89.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Rice,40.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Rice,38.5,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Rice,36.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Wheat (Atta),39.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Wheat (Atta),37.5,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Wheat (Atta),36.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tur / Arhar Dal,161.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tur / Arhar Dal,154.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tur / Arhar Dal,141.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Gram Dal (Chana),86.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Gram Dal (Chana),82.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Gram Dal (Chana),76.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Moong Dal,113.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Moong Dal,109.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Moong Dal,103.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Urad Dal,124.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Urad Dal,118.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Urad Dal,110.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Mustard Oil,153.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Mustard Oil,146.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Mustard Oil,140.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Sunflower Oil,130.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Sunflower Oil,124.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Sunflower Oil,118.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Soya Oil,128.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Soya Oil,122.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Soya Oil,117.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Potato,36.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Potato,30.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Potato,26.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Onion,57.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Onion,41.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Onion,35.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tomato,45.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tomato,32.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tomato,27.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Sugar,45.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Sugar,44.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Sugar,43.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Milk (Packaged),60.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Milk (Packaged),58.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Milk (Packaged),56.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tea (Packaged),305.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tea (Packaged),295.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Tea (Packaged),285.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Salt (Iodised),22.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Salt (Iodised),21.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Salt (Iodised),20.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Egg,77.0,₹/dozen,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Egg,71.0,₹/dozen,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Egg,65.0,₹/dozen,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Chicken (Broiler),210.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Chicken (Broiler),200.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Chicken (Broiler),185.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Spinach (Palak),38.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Spinach (Palak),33.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Spinach (Palak),31.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Curd (Plain),73.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Curd (Plain),70.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Curd (Plain),66.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Chickpeas (Chole),99.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Chickpeas (Chole),95.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Tamil Nadu,Chennai,Chickpeas (Chole),89.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Rice,40.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Rice,38.5,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Rice,36.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Wheat (Atta),39.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Wheat (Atta),37.5,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Wheat (Atta),36.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tur / Arhar Dal,161.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tur / Arhar Dal,154.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tur / Arhar Dal,141.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Gram Dal (Chana),86.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Gram Dal (Chana),82.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Gram Dal (Chana),76.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Moong Dal,113.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Moong Dal,109.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Moong Dal,103.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Urad Dal,124.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Urad Dal,118.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Urad Dal,110.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Mustard Oil,153.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Mustard Oil,146.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Mustard Oil,140.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Sunflower Oil,130.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Sunflower Oil,124.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Sunflower Oil,118.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Soya Oil,128.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Soya Oil,122.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Soya Oil,117.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Potato,36.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Potato,30.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Potato,26.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Onion,57.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Onion,41.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Onion,35.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tomato,45.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tomato,32.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tomato,27.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Sugar,45.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Sugar,44.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Sugar,43.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Milk (Packaged),60.0,₹/litre,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Milk (Packaged),58.0,₹/litre,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Milk (Packaged),56.0,₹/litre,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tea (Packaged),305.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tea (Packaged),295.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Tea (Packaged),285.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Salt (Iodised),22.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Salt (Iodised),21.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Salt (Iodised),20.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Egg,77.0,₹/dozen,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Egg,71.0,₹/dozen,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Egg,65.0,₹/dozen,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Chicken (Broiler),210.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Chicken (Broiler),200.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Chicken (Broiler),185.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Spinach (Palak),38.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Spinach (Palak),33.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Spinach (Palak),31.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Curd (Plain),73.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Curd (Plain),70.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Curd (Plain),66.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Chickpeas (Chole),99.0,₹/kg,2026-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Chickpeas (Chole),95.0,₹/kg,2026-04-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Telangana,Hyderabad,Chickpeas (Chole),89.0,₹/kg,2025-10-01,South,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Rice,39.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Rice,37.5,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Rice,35.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Wheat (Atta),37.5,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Wheat (Atta),36.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Wheat (Atta),34.5,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tur / Arhar Dal,166.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tur / Arhar Dal,159.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tur / Arhar Dal,146.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Gram Dal (Chana),85.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Gram Dal (Chana),81.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Gram Dal (Chana),75.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Moong Dal,115.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Moong Dal,111.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Moong Dal,105.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Urad Dal,126.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Urad Dal,120.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Urad Dal,112.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Mustard Oil,143.0,₹/litre,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Mustard Oil,136.0,₹/litre,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Mustard Oil,130.0,₹/litre,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Sunflower Oil,136.0,₹/litre,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Sunflower Oil,130.0,₹/litre,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Sunflower Oil,124.0,₹/litre,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Soya Oil,127.0,₹/litre,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Soya Oil,121.0,₹/litre,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Soya Oil,116.0,₹/litre,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Potato,29.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Potato,23.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Potato,19.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Onion,58.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Onion,42.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Onion,36.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tomato,51.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tomato,38.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tomato,33.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Sugar,45.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Sugar,44.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Sugar,43.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Milk (Packaged),62.0,₹/litre,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Milk (Packaged),60.0,₹/litre,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Milk (Packaged),58.0,₹/litre,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tea (Packaged),300.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tea (Packaged),290.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Tea (Packaged),280.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Salt (Iodised),23.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Salt (Iodised),22.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Salt (Iodised),21.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Egg,81.0,₹/dozen,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Egg,75.0,₹/dozen,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Egg,69.0,₹/dozen,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Chicken (Broiler),225.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Chicken (Broiler),215.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Chicken (Broiler),200.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Spinach (Palak),35.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Spinach (Palak),30.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Spinach (Palak),28.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Curd (Plain),76.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Curd (Plain),73.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Curd (Plain),69.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Chickpeas (Chole),98.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Chickpeas (Chole),94.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+West Bengal,Kolkata,Chickpeas (Chole),88.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Rice,39.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Rice,37.5,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Rice,35.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Wheat (Atta),37.5,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Wheat (Atta),36.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Wheat (Atta),34.5,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tur / Arhar Dal,166.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tur / Arhar Dal,159.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tur / Arhar Dal,146.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Gram Dal (Chana),85.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Gram Dal (Chana),81.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Gram Dal (Chana),75.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Moong Dal,115.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Moong Dal,111.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Moong Dal,105.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Urad Dal,126.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Urad Dal,120.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Urad Dal,112.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Mustard Oil,143.0,₹/litre,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Mustard Oil,136.0,₹/litre,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Mustard Oil,130.0,₹/litre,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Sunflower Oil,136.0,₹/litre,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Sunflower Oil,130.0,₹/litre,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Sunflower Oil,124.0,₹/litre,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Soya Oil,127.0,₹/litre,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Soya Oil,121.0,₹/litre,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Soya Oil,116.0,₹/litre,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Potato,29.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Potato,23.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Potato,19.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Onion,58.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Onion,42.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Onion,36.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tomato,51.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tomato,38.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tomato,33.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Sugar,45.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Sugar,44.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Sugar,43.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Milk (Packaged),62.0,₹/litre,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Milk (Packaged),60.0,₹/litre,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Milk (Packaged),58.0,₹/litre,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tea (Packaged),300.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tea (Packaged),290.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Tea (Packaged),280.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Salt (Iodised),23.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Salt (Iodised),22.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Salt (Iodised),21.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Egg,81.0,₹/dozen,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Egg,75.0,₹/dozen,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Egg,69.0,₹/dozen,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Chicken (Broiler),225.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Chicken (Broiler),215.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Chicken (Broiler),200.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Spinach (Palak),35.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Spinach (Palak),30.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Spinach (Palak),28.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Curd (Plain),76.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Curd (Plain),73.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Curd (Plain),69.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Chickpeas (Chole),98.0,₹/kg,2026-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Chickpeas (Chole),94.0,₹/kg,2026-04-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Bihar,Patna,Chickpeas (Chole),88.0,₹/kg,2025-10-01,East,DCA Reporting Center,Demonstration Sample (DCA Framework) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Rice,56.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Tur / Arhar Dal,165.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Moong Dal,145.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Chickpeas (Chole),130.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Potato,28.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Onion,42.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Tomato,36.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Spinach (Palak),40.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Curd (Plain),76.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Egg,140.0,₹/dozen,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Chicken (Broiler),240.0,₹/kg,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Reliance Fresh),Mustard Oil,155.0,₹/litre,2026-10-15,North,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Rice,58.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Tur / Arhar Dal,170.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Moong Dal,148.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Chickpeas (Chole),135.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Potato,30.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Onion,45.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Tomato,38.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Spinach (Palak),45.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Curd (Plain),80.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Egg,146.0,₹/dozen,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Chicken (Broiler),250.0,₹/kg,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (BigBasket),Mustard Oil,160.0,₹/litre,2026-10-15,North,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Rice,52.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Tur / Arhar Dal,158.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Moong Dal,138.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Chickpeas (Chole),122.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Potato,24.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Onion,38.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Tomato,30.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Spinach (Palak),32.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Curd (Plain),72.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Egg,134.0,₹/dozen,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Chicken (Broiler),225.0,₹/kg,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Local Mandi),Mustard Oil,148.0,₹/litre,2026-10-15,North,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Corner Grocery),Rice,55.0,₹/kg,2026-10-15,North,Store Survey (Corner Grocery),Demonstration Sample (Local Shop) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Corner Grocery),Tur / Arhar Dal,168.0,₹/kg,2026-10-15,North,Store Survey (Corner Grocery),Demonstration Sample (Local Shop) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Corner Grocery),Potato,28.0,₹/kg,2026-10-15,North,Store Survey (Corner Grocery),Demonstration Sample (Local Shop) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Corner Grocery),Onion,44.0,₹/kg,2026-10-15,North,Store Survey (Corner Grocery),Demonstration Sample (Local Shop) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Corner Grocery),Tomato,36.0,₹/kg,2026-10-15,North,Store Survey (Corner Grocery),Demonstration Sample (Local Shop) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Corner Grocery),Curd (Plain),78.0,₹/kg,2026-10-15,North,Store Survey (Corner Grocery),Demonstration Sample (Local Shop) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Delhi,Delhi (Corner Grocery),Mustard Oil,155.0,₹/litre,2026-10-15,North,Store Survey (Corner Grocery),Demonstration Sample (Local Shop) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Rice,60.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Tur / Arhar Dal,172.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Moong Dal,152.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Chickpeas (Chole),136.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Potato,34.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Onion,48.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Tomato,42.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Spinach (Palak),46.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Curd (Plain),82.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Egg,144.0,₹/dozen,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Chicken (Broiler),255.0,₹/kg,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Reliance Fresh),Mustard Oil,162.0,₹/litre,2026-10-15,South,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Rice,62.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Tur / Arhar Dal,178.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Moong Dal,156.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Chickpeas (Chole),140.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Potato,36.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Onion,52.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Tomato,45.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Spinach (Palak),50.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Curd (Plain),85.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Egg,150.0,₹/dozen,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Chicken (Broiler),265.0,₹/kg,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (BigBasket),Mustard Oil,168.0,₹/litre,2026-10-15,South,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Rice,55.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Tur / Arhar Dal,164.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Moong Dal,144.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Chickpeas (Chole),128.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Potato,30.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Onion,44.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Tomato,36.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Spinach (Palak),38.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Curd (Plain),75.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Egg,138.0,₹/dozen,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Chicken (Broiler),240.0,₹/kg,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Karnataka,Bengaluru (Local Mandi),Mustard Oil,154.0,₹/litre,2026-10-15,South,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Rice,58.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Tur / Arhar Dal,170.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Moong Dal,150.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Chickpeas (Chole),134.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Potato,32.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Onion,46.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Tomato,40.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Spinach (Palak),44.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Curd (Plain),80.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Egg,148.0,₹/dozen,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Chicken (Broiler),250.0,₹/kg,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Reliance Fresh),Mustard Oil,160.0,₹/litre,2026-10-15,West,Store Survey (Reliance Fresh),Demonstration Sample (Retail Store) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Rice,60.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Tur / Arhar Dal,175.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Moong Dal,154.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Chickpeas (Chole),138.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Potato,35.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Onion,50.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Tomato,44.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Spinach (Palak),48.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Curd (Plain),84.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Egg,152.0,₹/dozen,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Chicken (Broiler),260.0,₹/kg,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (BigBasket),Mustard Oil,165.0,₹/litre,2026-10-15,West,Store Survey (BigBasket),Demonstration Sample (Online Grocery) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Rice,54.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Tur / Arhar Dal,162.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Moong Dal,142.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Chickpeas (Chole),126.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Potato,28.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Onion,42.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Tomato,35.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Spinach (Palak),36.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Curd (Plain),74.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Egg,140.0,₹/dozen,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Chicken (Broiler),235.0,₹/kg,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices
+Maharashtra,Mumbai (Local Mandi),Mustard Oil,152.0,₹/litre,2026-10-15,West,Store Survey (Local Mandi),Demonstration Sample (Local Mandi) — Not Verified Official Prices,Demonstration Data — Not Verified Official Prices

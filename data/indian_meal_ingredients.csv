@@ -1,0 +1,27 @@
+meal_name,food_item,quantity_g,food_state
+Veg Dal Rice Meal,Rice,100,Raw
+Veg Dal Rice Meal,Toor Dal,50,Raw
+Veg Dal Rice Meal,Onion,30,Raw
+Veg Dal Rice Meal,Tomato,30,Raw
+Veg Dal Rice Meal,Spinach,40,Raw
+Veg Dal Rice Meal,Cooking Oil,10,Raw
+Veg Dal Rice Meal,Curd,100,Ready-to-eat
+Veg Chole Rice Meal,Rice,100,Raw
+Veg Chole Rice Meal,Chickpeas,60,Raw
+Veg Chole Rice Meal,Onion,35,Raw
+Veg Chole Rice Meal,Tomato,35,Raw
+Veg Chole Rice Meal,Potato,50,Raw
+Veg Chole Rice Meal,Cooking Oil,10,Raw
+Veg Chole Rice Meal,Curd,50,Ready-to-eat
+Egg Curry Rice Meal,Rice,100,Raw
+Egg Curry Rice Meal,Egg,100,Raw
+Egg Curry Rice Meal,Potato,50,Raw
+Egg Curry Rice Meal,Onion,30,Raw
+Egg Curry Rice Meal,Tomato,30,Raw
+Egg Curry Rice Meal,Cooking Oil,10,Raw
+Chicken Rice Meal,Rice,100,Raw
+Chicken Rice Meal,Chicken,120,Raw
+Chicken Rice Meal,Potato,40,Raw
+Chicken Rice Meal,Onion,40,Raw
+Chicken Rice Meal,Tomato,40,Raw
+Chicken Rice Meal,Cooking Oil,10,Raw
